@@ -1,0 +1,5 @@
+good 1
+bad -1
+excellent 2
+terrible -2
+okay 0
